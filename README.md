@@ -1,1 +1,4 @@
-# Responsive static web app
+# Responsive static web design
+
+## Author
+* Charles Osango
